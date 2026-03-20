@@ -9,7 +9,7 @@ Mi valor diferencial es un **perfil híbrido**: combino años de experiencia rea
 ### Mi Enfoque
 No solo analizo datos, sino que construyo las herramientas para gestionarlos. Mi objetivo es transformar procesos administrativos manuales en flujos de trabajo automatizados y visuales.
 
-### 🛠️ Stack Tecnológico
+### Stack Tecnológico
 - **Análisis y Visualización:** Power BI (DAX), Excel Avanzado.
 - **Bases de Datos:** SQL (MySQL / PostgreSQL).
 - **Programación:** Python (en proceso de especialización en Pandas), Java, PHP, JavaScript.
